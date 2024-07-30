@@ -12,6 +12,9 @@ fn main()
     let neg_num:u32=250;
     println!("positive number {}",neg_num);
 
+    let boolean:bool=true;
+    println!("boolean value {}",boolean);
+
 
 
 }
