@@ -1,0 +1,15 @@
+Ledger location: .anchor/test-ledger
+Log: .anchor/test-ledger/validator.log
+Initializing...
+Waiting for fees to stabilize 1...
+Connecting...
+Identity: ArqnqWRZG7We2fRbPRjCG8kUQX1jHRx5z6dGvpEstub9
+Genesis Hash: 39XRNEqt961Jni55uZ3CZUiBBYhaXxr1znE9gs15vB7L
+Version: 1.18.21
+Shred Version: 40922
+Gossip Address: 127.0.0.1:1024
+TPU Address: 127.0.0.1:1027
+JSON RPC URL: http://127.0.0.1:8899
+WebSocket PubSub URL: ws://127.0.0.1:8900
+00:00:03 | Processed Slot: 4 | Confirmed Slot: 4 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 4 | ◎499.999987500
+00:00:03 | Processed Slot: 5 | Confirmed Slot: 5 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 5 | ◎499.999982500

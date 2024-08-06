@@ -1,0 +1,10 @@
+Streaming transaction logs mentioning 9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 46phbPtHdDdVCY2Rbbk3GoN2uUUdqoL4NBezE2tb5EW3vRoegV4jAZW5TGb1U5GDuYknA5SbBDncEBocqYAVYZ3W
+  Status: Ok
+  Log Messages:
+    Program 9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew invoke [1]
+    Program log: Instruction: Initialize
+    Program log: Greetings from: 9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew
+    Program 9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew consumed 11880 of 200000 compute units
+    Program 9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew success

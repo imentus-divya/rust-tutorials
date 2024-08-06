@@ -1,0 +1,26 @@
+{
+  "address": "9EKuUwB6mHov7xzpsW2Mu6uVhFJWJPSK1S3wA6xCvqew",
+  "metadata": {
+    "name": "hello_with_anchor",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "initialize",
+      "discriminator": [
+        175,
+        175,
+        109,
+        31,
+        13,
+        152,
+        155,
+        237
+      ],
+      "accounts": [],
+      "args": []
+    }
+  ]
+}
